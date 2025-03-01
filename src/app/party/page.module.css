@@ -1,0 +1,61 @@
+.photoframe, .photoframeMj{
+    border: 4px solid silver;
+    justify-content: center;
+   text-align: center;
+   position: relative;
+   border-radius: 50%;
+   height:200px;
+   width:200px;
+   padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.photo{
+    border-radius: 50%;
+   
+}
+.partypage{
+    text-align: center;
+    position: relative;
+   
+}
+.guys{
+    padding-right:  24px;
+}
+.girls{
+    padding-left: 24px;
+}
+.guysandgirls{
+    display: flex;
+    border:double 8px silver;
+    justify-content: center; /* Centers horizontally */ 
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+   
+}
+@media only screen and (max-width: 450px) {
+    .guysandgirls{
+        display:block;
+        position:relative;
+        justify-content: center; /* Centers horizontally */ 
+        
+    }
+   .guys{
+    
+    position:relative;
+    justify-items: center;
+    padding-left: 24px;
+   }
+   .girls{
+   
+    position:relative;
+    justify-items: center;
+    padding-right: 32px;
+    }
+    .photoframeMj{
+        position:relative;
+        left:100px
+    }
+}

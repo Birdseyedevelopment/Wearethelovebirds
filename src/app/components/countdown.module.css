@@ -1,0 +1,18 @@
+
+.timertitle{
+  color:black;
+  line-height: 14px;
+  text-align: center;
+}
+.timerdays, .timertitledays, .timerhours, .timertitlehours, .timerminutes, .timertitleminutes, .timertitleseconds, .timerseconds{
+  color:black;
+  
+  text-align: center;
+}
+@media only screen and (max-width: 450px) {
+  .countdowntimer {
+    text-align: left;
+   position:relative ;
+   left: -38px;
+  }
+}

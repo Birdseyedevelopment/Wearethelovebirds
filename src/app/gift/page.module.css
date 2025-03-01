@@ -1,0 +1,33 @@
+.wholepage{
+    display: flex;
+    padding: top 12px;
+    border:3px solid silver;
+     justify-content: center; /* Centers horizontally */ 
+     align-items: center;
+     width: 100%;
+}
+.maincontent{
+    align-content: center;
+    position: relative;
+    padding: 0px 16px 16px 16px;/*TLBR*/
+    width: 100%;
+    box-sizing: border-box;
+    text-align:center;
+}
+
+.apps{
+    color:black;
+}
+.applink{
+    color :black;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    /* Add your styles here to adjust for iPhone-sized screens */
+    .maincontent{
+     width:100%;
+    }
+    /* Add any other styles needed to fit iPhone displays */
+  }

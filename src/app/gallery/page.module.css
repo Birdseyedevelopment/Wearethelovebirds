@@ -1,0 +1,28 @@
+.page{
+    border: 4px solid silver;
+    padding: 4px 0px 0px 0px;
+    justify-content: center; /* Centers horizontally */ 
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.gallerytitle {
+    box-sizing: content-box;
+    position: relative;
+    border: 4px solid white;
+    align-content: center;
+    padding: 0px 16px 0px 16px;/*TLBR*/
+    width: 386px;
+    text-align:center;
+
+}
+.applink{
+    color :black;
+    text-decoration: none;
+}
+ .SwiperComponent{
+   width: 100%;
+   height: auto;
+   object-fit:fill;
+    position: relative;
+ }

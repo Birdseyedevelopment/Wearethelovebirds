@@ -9,7 +9,11 @@
    padding-bottom: 12px;
     padding-top: 12px;
 }
-
+.photoframeMj{
+    top:-583px;
+    left:20px;
+    
+}
 .photo{
     border-radius: 50%;
    

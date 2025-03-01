@@ -11,14 +11,14 @@ const monsieurLaDoulaise = Monsieur_La_Doulaise({
 const header = () => {
 return (
 <header className={styles.header}>
-        <ul className={styles.nav}>
-        <li><Link className={styles.navlink} href="/">Home</Link></li>
-        <li><Link className={styles.navlink} href="/gallery">Gallery</Link></li>
-        <li><Link className={styles.navlink} href="/songs">Songs</Link></li>
-        <li><Link className={styles.navlink} href="/hotel">Hotels</Link></li>
-        <li><Link className={styles.navlink} href="/party">Party</Link></li>
-        <li><Link className={styles.navlink} href="/gift">Gifts</Link></li>
-        <li><Link className={styles.navlink} href="/rsvp">RSVP</Link></li>
+       <ul className={styles.nav}>
+        <li><Link className={styles.navlink} href="/"><strong>Home</strong></Link></li>
+        <li><Link className={styles.navlink} href="/gallery"><strong>Gallery</strong></Link></li>
+        <li><Link className={styles.navlink} href="/songs"><strong>Songs</strong></Link></li>
+        <li><Link className={styles.navlink} href="/hotel"><strong>Hotels</strong></Link></li>
+        <li><Link className={styles.navlink} href="/party"><strong>Party</strong></Link></li>
+        <li><Link className={styles.navlink} href="/gift"><strong>Gifts</strong></Link></li>
+        <li><Link className={styles.navlink} href="/rsvp"><strong>RSVP</strong></Link></li>
       </ul>
       <div className= {styles.titleinfo}>
       <div className={styles.ourNames}><h1 className={monsieurLaDoulaise.className} >Gerard & Bria</h1></div>

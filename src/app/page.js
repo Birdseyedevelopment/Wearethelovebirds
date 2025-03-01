@@ -12,8 +12,7 @@ export default function Home() {
         Over the last five years, they have experienced wins and losses together but remain strong in their trust in God and love for each other. Growing up with very different backgrounds, they learned a lot from each other and appreciated each other’s differences. They look forward to starting 
         a new chapter in their story filled with more love, continued memories, family, and faith.</p>
       
-        <Image className={styles.photo2} src= "/images/monogram.jpg" alt="G&B Monogram" width={100} height={100}/>
-      </div>
+       </div>
       
     </div>
    

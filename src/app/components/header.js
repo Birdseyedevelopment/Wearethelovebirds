@@ -23,6 +23,7 @@ return (
       <div className= {styles.titleinfo}>
       <div className={styles.ourNames}><h1 className={monsieurLaDoulaise.className} >Gerard & Bria</h1></div>
       <p>AUGUST 9, 2025</p>
+      <p>Two o'clock in the afternoon</p>
       <p>LOCATION:</p>
       <p className={styles.address}>230 West Coulter Street Philadelphia PA, 19144</p>
       </div>

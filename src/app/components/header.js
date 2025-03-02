@@ -21,7 +21,7 @@ return (
         <li><Link className={styles.navlink} href="/rsvp"><strong>RSVP</strong></Link></li>
       </ul>
       <div className= {styles.titleinfo}>
-      <div className={styles.ourNames}><h1 className={monsieurLaDoulaise.className} >Gerard & Bria</h1></div>
+      <div className={styles.ourNames}><h1 className={monsieurLaDoulaise.className} ><strong>Gerard & Bria</strong></h1></div>
       <p>AUGUST 9, 2025</p>
       <p>Two o'clock in the afternoon</p>
       <p>LOCATION:</p>

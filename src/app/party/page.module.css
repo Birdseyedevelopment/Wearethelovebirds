@@ -11,9 +11,9 @@
 }
 .photoframeMj{
     top:-583px;
-    left:20px;
     
 }
+
 .photo{
     border-radius: 50%;
    
@@ -21,14 +21,10 @@
 .partypage{
     text-align: center;
     position: relative;
+    
    
 }
-.guys{
-    padding-right:  12px;
-}
-.girls{
-    padding-left: 12px;
-}
+
 .guysandgirls{
     display: flex;
     border:double 8px silver;
@@ -44,22 +40,11 @@
         display:block;
         position:relative;
         justify-content: center; /* Centers horizontally */ 
-        
+        justify-items: center;
     }
-   .guys{
-    
-    position:relative;
-    justify-items: center;
-    padding-left: 24px;
-   }
-   .girls{
    
-    position:relative;
-    justify-items: center;
-    padding-right: 32px;
-    }
     .photoframeMj{
         position:relative;
-        left:100px
+        top:0px;
     }
 }

@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         
         {children}
         <Monogram/>
-        <footer>This website and it's contents were created by BIRDS EYE WEB DEVELOPMENT</footer>
+        <footer>This website and its contents were created by BIRDS EYE WEB DEVELOPMENT</footer>
       </body>
     </html>
   );

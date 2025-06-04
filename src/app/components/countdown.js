@@ -14,7 +14,7 @@ const CountdownTimer = () => {
     const [seconds, setSeconds]= useState(0)
 
   useEffect(() => {
-    const targetDate = new Date('2025-08-09T00:00:00'); // Replace with your target date
+    const targetDate = new Date('2025-08-09T02:30:00'); // Replace with your target date
   
     const interval = setInterval(() => {
     const now = new Date();

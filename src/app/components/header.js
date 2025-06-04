@@ -11,7 +11,7 @@ const monsieurLaDoulaise = Monsieur_La_Doulaise({
 const header = () => {
 return (
 <header className={styles.header}>
-       <ul className={styles.nav}>
+        <ul className={styles.nav}>
         <li><Link className={styles.navlink} href="/"><strong>Home</strong></Link></li>
         <li><Link className={styles.navlink} href="/gallery"><strong>Gallery</strong></Link></li>
         <li><Link className={styles.navlink} href="/songs"><strong>Songs</strong></Link></li>

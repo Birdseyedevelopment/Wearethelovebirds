@@ -1,10 +1,9 @@
 
 .timertitle{
-  color:black;
   line-height: 14px;
   text-align: center;
 }
-.timerdays, .timertitledays, .timerhours, .timertitlehours, .timerminutes, .timertitleminutes, .timertitleseconds, .timerseconds{
+.timertitle, .timerdays, .timertitledays, .timerhours, .timertitlehours, .timerminutes, .timertitleminutes, .timertitleseconds, .timerseconds{
   color:black;
   
   text-align: center;

@@ -7,12 +7,12 @@
     position: relative;
 }
 .photo{
-    width:500px;
+    width:400px;
+    
 }
 .ourstory{
     text-align: justify;
     width: 100%;
-   
 }
 .frame{
     align-content: center;

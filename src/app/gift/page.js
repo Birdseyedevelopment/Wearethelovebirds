@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <div className={styles.wholepage}>
             <div className={styles.maincontent}>
-                <h1>Monetary gifts are highly appreciated and encouraged to contribute to the beginning of our lives together. Thanks you in advance!</h1>
+                <h1>Monetary gifts are highly appreciated and encouraged to contribute to the beginning of our lives together. Thank you in advance!</h1>
             <ul className={styles.apps}>
                 <li><Link className={styles.applink} href="https://www.zellepay.com/">ZELLE</Link> - 267 393 1456</li>
                 <li><Link className={styles.applink} href="https://venmo.com/">VENMO</Link> - @bria-miles611</li>

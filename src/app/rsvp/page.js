@@ -4,7 +4,7 @@ export default function Home() {
         <div className={styles.wholepage}>
             <div className={styles.maincontent}>
             
-            <iframe className={styles.form} src="https://docs.google.com/forms/d/e/1FAIpQLSdDIh8LzkF0vkb3r_bKYp1iXrTkqAT6N14EzuIuG610oWKY3w/viewform?embedded=true"  width="850" height="1100" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe>
+            <div className={styles.form} WE CAN WAIT TO SEE YOU THERE AND CELEBRATE WITH EVERYONE. </div>
         </div> 
        </div>
     );

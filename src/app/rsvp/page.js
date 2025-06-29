@@ -4,7 +4,7 @@ export default function Home() {
         <div className={styles.wholepage}>
             <div className={styles.maincontent}>
             
-            <div className={styles.form} WE CAN WAIT TO SEE YOU THERE AND CELEBRATE WITH EVERYONE. </div>
+            <div className={styles.form} WE CAN'T WAIT TO SEE YOU THERE AND CELEBRATE WITH EVERYONE. </div>
         </div> 
        </div>
     );
